@@ -1,4 +1,4 @@
-# Convolution-Neural-Netwotk-Model-VGG16-for-Detection-of-COVID-19-from-Chest-X-Ray-Images
+# Convolution-Neural-Network-VGG16-COVID-19-Detection
 
 Datasets:
 The dataset used in our work was obtained from the following:
